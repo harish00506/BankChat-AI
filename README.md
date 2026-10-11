@@ -2,6 +2,8 @@
 
 🏦 **RAG-based Banking Chat Assistant** leveraging Neo4j Knowledge Graph + Supabase pgvector for semantic search, powered by Groq LLM and HuggingFace embeddings.
 
+**Case study — how the graph and vector halves fit together: [www.harishg.com/works/fingraph-ai](https://www.harishg.com/works/fingraph-ai)**
+
 ## 🏗️ System Architecture
 
 ```
